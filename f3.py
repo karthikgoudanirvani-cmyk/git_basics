@@ -1,0 +1,2 @@
+print("tuesday")
+print("name")
